@@ -1,5 +1,4 @@
 argparse
-logging
-multiprocessing
 scapy
+logging
 datetime
