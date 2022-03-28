@@ -1,6 +1,4 @@
 argparse
-multiprocessing
-netaddr
-logging
 scapy
+netaddr
 datetime
